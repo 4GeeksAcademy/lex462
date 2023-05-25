@@ -1,0 +1,97 @@
+
+
+.payment{
+    border:2px solid black;
+    height: 60px;
+    width: 800px;
+    margin: auto;
+    border-radius: 10px;
+}
+.form2 {
+    border: 2px solid black;
+    margin: auto;
+    width: 800px;
+    height: 600px;
+    border-radius: 5px;
+}
+#para {
+    border: 1px solid black;
+    color: black;
+    background: rgb(179, 121, 121);
+    border-radius: 4px;
+}
+.ccc{
+    text-align: center ;
+    margin: auto;
+    position: relative;
+    bottom: 70px;
+}
+.amount {
+    text-align: right;
+    position: relative;
+    bottom: 140px;
+    margin: 5px;
+}
+.first-name{
+    position: relative;
+    bottom: 120px;
+    
+}
+.last{
+    position: relative;
+    text-align: center;
+    bottom: 190px;
+}
+.city2 {
+    position: relative;
+    bottom: 140px;
+}
+.state2{
+    position: relative;
+    text-align: center;
+    bottom: 210px;
+}
+.postal2{
+    position: relative;
+    text-align: right;
+    bottom: 281px;
+    margin: 5px;
+}
+.fcf-form-group {
+    position: relative;
+    text-align: right;
+    bottom: 300px;
+    margin: 50px;
+
+}
+.img2 {
+    position: relative;
+    margin: 20px;
+    right: 480px;
+    width: 200px;
+    height: 100px;
+}
+.final {
+    border-radius: 5px;
+    position: relative;
+    bottom: 15px;
+    right: 50px;
+    margin: auto;
+    border: 1px solid black;
+    height:60px ;
+    width: 800px;
+    
+}
+
+
+.button2{
+    position: relative;
+    top: 15px;
+    margin: 5px;
+    background-color: gray;
+}
+.button1 { 
+    position: relative;
+    top: 15px;
+    margin: 5px;
+    background-color: rgb(22, 99, 201);
